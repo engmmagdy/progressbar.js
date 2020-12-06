@@ -4,7 +4,7 @@
   "description": "Responsive and slick progress bars with animated SVG paths",
   "main": "dist/progressbar.js",
   "dependencies": {
-    "shifty": "^2.8.3"
+    "shifty": "^2.13.0"
   },
   "devDependencies": {
     "bluebird": "^2.3.6",
